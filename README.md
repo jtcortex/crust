@@ -1,6 +1,6 @@
 # [CRUST]
 
-![Build](https://github.com/jtcortex/crust/blob/main/.github/workflows/rust.yml/badge.svg)
+[![Rust](https://github.com/jtcortex/crust/actions/workflows/rust.yml/badge.svg)](https://github.com/jtcortex/crust/actions/workflows/rust.yml)
 
 ## C/C++ to Rust Transpiler
 
