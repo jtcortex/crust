@@ -1,6 +1,8 @@
 [package]
 name = "crust"
+description = "C/C++ to Rust transpiler"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+getopts = "0.2.14"
